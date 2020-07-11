@@ -1,3 +1,9 @@
+The project is published at -
+https://taruntiwaritt.github.io/simple-react-crud/
+
+The project is a React JS crud application with the data stored in localStorage of the React Application
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
